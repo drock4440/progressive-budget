@@ -11,6 +11,8 @@
 - [Contributors](#contributors)
 - [Tests](#tests)
 - [Questions](#questions)
+![img](screenshot.png)
+
 ## Installation
 💾 There is no need to install this app as it is deployed live for the user at 
 ## Usage
